@@ -1,0 +1,59 @@
+body {
+    background-color: #d3c90a;
+
+}
+
+
+
+nav {
+    background-color: black !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    letter-spacing: 10px;
+}
+
+.form-control {
+    background-color: #000;
+    border: 1px solid #fff !important;
+    letter-spacing: 5px;
+}
+
+.form-control::placeholder {
+    color: #929191;
+}
+
+.form-control:focus {
+    background-color: #000;
+    color: #f3f3f3;
+}
+
+.mt-13 {
+    margin-top: 11vh !important;
+}
+
+.btn {
+    background-color: transparent;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card-title {
+    font-size: 11pt;
+}
+
+.font-little {
+    font-size: 50% !important;
+}
+
+.styles-modal {
+    vertical-align: inherit !important;
+    border-collapse: initial;
+}
+
+.card-btn:hover {
+    background-color: #d3c90a;
+}
